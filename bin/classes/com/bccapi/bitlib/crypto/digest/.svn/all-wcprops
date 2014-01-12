@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/crypto/digest
+END
+RIPEMD160Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/crypto/digest/RIPEMD160Digest.java
+END
+GeneralDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/crypto/digest/GeneralDigest.java
+END

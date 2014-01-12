@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OtherCoin</string>
+    <string name="receive_now">Handshake</string>
+    <string name="scan_now">Scan</string>
+    <string name="refresh">Refresh</string>
+    <string name="qr_display_act">ShowQR</string>
+    <string name="qr_read_act">ReadQR</string>
+    <string name="new_key">New Key</string>
+    <string name="newpin">Change PIN</string>
+    <string name="send_as_text">Send as text</string>
+
+</resources>

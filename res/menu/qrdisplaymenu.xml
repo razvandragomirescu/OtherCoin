@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_sendastext"
+          android:title="@string/send_as_text"
+          android:icon="@drawable/ic_action_send_now"
+          android:showAsAction="always|withText" />
+    
+
+    
+</menu>
+

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model
+END
+ScriptOutputStrange.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptOutputStrange.java
+END
+NetworkParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/NetworkParameters.java
+END
+OutPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/OutPoint.java
+END
+UnspentTransactionOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/UnspentTransactionOutput.java
+END
+ScriptInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptInput.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/Address.java
+END
+ScriptOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptOutput.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/Transaction.java
+END
+ScriptInputCoinbase.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptInputCoinbase.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/Block.java
+END
+ScriptOutputMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptOutputMsg.java
+END
+CompactInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/CompactInt.java
+END
+ScriptOutputMultisig.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptOutputMultisig.java
+END
+ScriptInputPubKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptInputPubKey.java
+END
+Script.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/Script.java
+END
+ScriptOutputPubkey.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptOutputPubkey.java
+END
+ScriptInputStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptInputStandard.java
+END
+TransactionInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/TransactionInput.java
+END
+ScriptOutputStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/ScriptOutputStandard.java
+END
+TransactionOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bitlib/src/com/bccapi/bitlib/model/TransactionOutput.java
+END
